@@ -7,7 +7,7 @@
 - 表紙イラスト: [はんぺん氏(@atamapokopoko)](https://twitter.com/atamapokopoko)
 - 仕様: 48p, 頒布価格600円(予定)
 
-[「針の音楽団」](http://harimusic.net/)の整理券システムにおけるメールサーバー運用事例をもとにした、メールサーバーセットアップガイド、迷惑メールフィルタ対策、暗号化周辺を解説した本です。
+[→個別紹介ページ](/books/dark-depths-of-smtp)
 
 ## イベント参加情報
 
