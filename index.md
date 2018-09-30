@@ -2,7 +2,7 @@
 
 ## 技術書典5新刊「バージョン管理 with Pijul」
 
-![](/assets/img/pijulbook_cover.png)
+[![](/assets/img/pijulbook_cover.png)](/books/pijul-book)
 
 - 仕様: 52p, 頒布価格300円(予定)
 
@@ -10,7 +10,7 @@
 
 ## 技術書典4新刊「Dark Depths of SMTP」
 
-![](/assets/img/ddbook_cover.png)
+[![](/assets/img/ddbook_cover.png)](/books/dark-depths-of-smtp)
 
 - 表紙イラスト: [はんぺん氏(@atamapokopoko)](https://twitter.com/atamapokopoko)
 - 仕様: 48p, 頒布価格600円(予定)
