@@ -8,6 +8,7 @@
 - 表紙イラスト: [はんぺん氏(@atamapokopoko)](https://twitter.com/atamapokopoko)
 - 仕様: 48p, 頒布価格600円
     - [booth.pmページ](https://cryptic-command.booth.pm/items/892981)
+        - 物理版は技術書典5にて完売いたしました。電子版を準備次第頒布する予定です。
 
 [「針の音楽団」](http://harimusic.net/)の整理券システムにおけるメールサーバー運用事例をもとにした、メールサーバーセットアップガイド、迷惑メールフィルタ対策、暗号化周辺を解説した本です。
 
