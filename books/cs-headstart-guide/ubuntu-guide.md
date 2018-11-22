@@ -12,9 +12,17 @@
 
 ## VirtualBoxのインストール
 
-[https://www.virtualbox.org/](https://www.virtualbox.org/) を開き、トップにある「Download VirtualBox 5.2」(執筆時点)リンクをクリックし、ホストOSの種類に応じてWindows hosts/OS X hostsのどちらか（すでにLinux使ってたらおそらくこの手順必要ないですよね？）を選択します。macOSの場合、ダウンロードしたdmgファイルを開くと、このような画面が出てくるので、これに従って1番のアイコンをダブルクリックし、インストーラの指示に従います。VirtualBoxの起動は以下の画像にある通り、Applicationsフォルダを開いてVirtualBoxのアイコンをダブルクリックすることでできます。
+[https://www.virtualbox.org/](https://www.virtualbox.org/) を開き、トップにある「Download VirtualBox 5.2」(執筆時点)リンクをクリックし、ホストOSの種類に応じてWindows hosts/OS X hostsのどちらか（すでにLinux使ってたらおそらくこの手順必要ないですよね？）を選択します。
+
+![](virtualbox.png)
+
+macOSの場合、ダウンロードしたdmgファイルを開くと、このような画面が出てくるので、これに従って1番のアイコンをダブルクリックし、インストーラの指示に従います。VirtualBoxの起動は以下の画像にある通り、Applicationsフォルダを開いてVirtualBoxのアイコンをダブルクリックすることでできます。
 
 ![](dmg.png)
+
+Windowsの場合、ダウンロードしたexeファイルをダブルクリックすると、インストーラーが起動します。基本的にNextとOKをクリックするだけの作業になりますが、以下のような警告画面が表示される場合があります。これは「ネットワーク関係ちょっと弄るからインターネットが瞬断するよ」と言っているので、特に問題がなければ先に進んで構いません。
+
+![](interface_alert.png)
 
 ## 仮想環境のセットアップ
 
