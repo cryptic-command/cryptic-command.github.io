@@ -21,4 +21,6 @@
 
 ----
 
+本書付随記事のUbuntu利用ガイドは[こちら](/books/cs-headstart-guide/ubuntu-guide)
+
 ## アップデート情報
