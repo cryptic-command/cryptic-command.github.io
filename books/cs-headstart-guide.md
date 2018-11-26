@@ -5,7 +5,7 @@
 - 頒布イベント
     - コミックアカデミー17(2018/11/25)
 - 仕様: 72p(予定), 頒布価格500円
-    - [booth.pmページ](https://cryptic-command.net/books/cs-headstart-guide)
+    - [booth.pmページ](https://cryptic-command.booth.pm/items/1112350)
 
 五月祭で予告した初心者向けコンピュータ入門書、ついに着弾！コンピュータ科学とは何か、コンピュータ科学以前のコンピュータの話、プログラミングの始め方など、Cryptic Commandはコンピュータ科学を始めたいみなさんを全力で応援します！
 
