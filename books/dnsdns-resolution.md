@@ -1,2 +1,2 @@
-# DNSDNS Resokution
+# DNSDNS Resolution
 TBD
