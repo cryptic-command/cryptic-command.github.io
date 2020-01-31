@@ -1,6 +1,6 @@
 # About
 
-**Cryptic Command** は主に暗号技術やEメールに関する技術書の出版活動を行っているサークルです。たまにボードゲームをやったりします。
+**Cryptic Command** は主に~~暗号技術やEメール~~インターネット技術に関する技術書の出版活動を行っているサークルです。たまにボードゲームをやったりします。
 
 名前の由来はもちろん[Magic: the Gatheringの同名カードから](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438863)。
 
