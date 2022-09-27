@@ -96,12 +96,12 @@ DNSのセキュリティ・プライバシーについてフォーカスしたDN
 
 # アップデート情報
 
-## 09/27/2022 - Extra Chapterその4: Oblivious DNS over HTTPS
+## 2022/09/07 - Extra Chapterその4: Oblivious DNS over HTTPS
 
 技術書典13に出るにあたってExtra Chapterその4「[Oblivious DNS over HTTPS](/2022/09/10/odoh.html)」を書き下ろしました。
 
 また、Extra Chapterその2として収録している[Application Behavior Considering DNS](https://d.s01.ninja/entry/20191219-dns-updates-abcd)もこのページからリンクします。
 
-## 12/22/2019 - Extra Chapterその3: anti-DNSSEC - PARANOiA Revolution
+## 2019/12/22 - Extra Chapterその3: anti-DNSSEC - PARANOiA Revolution
 
 DNSSEC章の最後に触れているanti-DNSSECの主張についてより掘り下げた内容、また締めた文章の「修正」についてを記述したExtra Chapterを書きました。[こちらからお読みいただけます。](https://sylph01.hatenablog.jp/entry/20191222/1577010669)
